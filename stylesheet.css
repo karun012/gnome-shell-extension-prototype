@@ -1,0 +1,14 @@
+.left-box {
+	border-right: 2px solid;
+    border-color:#AB123C;
+    width: 20em;
+}
+
+.right-box {
+    width: 20em;
+}
+
+.main-layout {
+    width: 40em;
+    height: 30em;
+}
